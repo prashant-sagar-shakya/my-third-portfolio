@@ -151,6 +151,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/prashant-shakya03/",
+    link: "https://www.linkedin.com/in/prashant-sagar-shakya01//",
   },
 ];
